@@ -1,0 +1,35 @@
+﻿STRING 1
+{
+test
+}
+
+STRING 2
+{
+Player 1
+}
+
+STRING 3
+{
+Force 1
+}
+
+STRING 4
+{
+TestHostMap
+}
+
+STRING 5
+{
+Any
+}
+
+STRING 6
+{
+Nondescript
+}
+
+STRING 7
+{
+Unknown
+}
+
